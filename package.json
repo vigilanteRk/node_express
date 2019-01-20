@@ -1,0 +1,17 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "Simple node and epress app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Rajkumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.5",
+    "pug": "^2.0.3"
+  }
+}
